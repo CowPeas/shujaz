@@ -38,7 +38,7 @@ export default function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-white mb-2">Want to know more ?</h3>
-                <p className="text-gray-300 text-lg mb-6">Call us on +254722212800</p>
+                <p className="text-gray-300 text-lg mb-6">Call us on +254700414424</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">

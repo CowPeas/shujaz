@@ -27,7 +27,7 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Trusted by over 20,000 companies all over the world</h2>
+            <h2 className="h2 mb-4">Trusted by over 200 outlets all over the country</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">We are the best in Kenya</p>
           </div>
 
@@ -84,7 +84,7 @@ export default function Testimonials() {
                   <Image className="relative rounded-full" src={TestimonialImage} width={96} height={96} alt="Testimonial 01" />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “ I love this company and would recommend it to anyone. Could be not easier to use, and our multiple rooms are wonderful. We get nice comments all the time. “
+                  “ I love this company and would recommend it to anyone. The shoes are of the best quality at affordable prices. We get nice comments all the time. “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">Darya Finger</cite>
                 <div className="text-gray-600">
