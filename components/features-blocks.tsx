@@ -20,28 +20,28 @@ export default function FeaturesBlocks() {
 
             {/* 1st item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <img src="https://c.pxhere.com/photos/05/1b/livingroom_interior_design_furniture_indoors_apartment_decor-678048.jpg!d" alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bigw.com.au%2Fmedias%2Fsys_master%2Fimages%2Fimages%2Fhe5%2Fh8d%2F26674694258718.jpg&f=1&nofb=1&ipt=945a6c37dbb9a9e174b200dff9f9baf56cae4e887adade77828c197813c8267d&ipo=images" alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Kindergaten</h4>
               <p className="text-gray-600 text-center">Comfort and style for your little one</p>
             </div>
 
             {/* 2nd item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <img src="https://c.pxhere.com/photos/6d/b7/living_room_interior_furniture_design_decor_home_sofa_table-758306.jpg!d" alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fn1.sdlcdn.com%2Fimgs%2Fa%2Fd%2F8%2FSDL518037508_1374576766_image5-80694.jpg&f=1&nofb=1&ipt=a0956879155898d557068cb6e505de9a5a4dae8b89c7e1d251225b2f157f023a&ipo=images" alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Primary School</h4>
               <p className="text-gray-600 text-center">They can last long hours of play</p>
             </div>
 
             {/* 3rd item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <img src="https://c.pxhere.com/photos/27/d7/home_real_estate_residential_living_room_residence_house_view_windows-1210556.jpg!d"  alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fn1.sdlcdn.com%2Fimgs%2Fa%2Fd%2F8%2FSDL518037508_1374576766_image5-80694.jpg&f=1&nofb=1&ipt=a0956879155898d557068cb6e505de9a5a4dae8b89c7e1d251225b2f157f023a&ipo=images"  alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Highschools</h4>
               <p className="text-gray-600 text-center">They last the whole Term</p>
             </div>
 
             {/* 4th item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <img src="https://c.pxhere.com/photos/5f/21/brick_wall_cabinet_chair_decoration_design_furniture_house_indoors-1176275.jpg!d"  alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
+              <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fn1.sdlcdn.com%2Fimgs%2Fa%2Fd%2F8%2FSDL518037508_1374576766_image5-80694.jpg&f=1&nofb=1&ipt=a0956879155898d557068cb6e505de9a5a4dae8b89c7e1d251225b2f157f023a&ipo=images"  alt="Project 1" className="w-lg h-lg p-1 -mt-1 mb-2" />
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Fashion</h4>
               <p className="text-gray-600 text-center">Always a Student</p>
             </div>
